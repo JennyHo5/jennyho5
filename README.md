@@ -38,15 +38,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/asukawho">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=asukawho&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
